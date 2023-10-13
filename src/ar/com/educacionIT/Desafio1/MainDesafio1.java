@@ -1,4 +1,4 @@
-package ar.com.educacionIT;
+package ar.com.educacionIT.Desafio1;
 
 import java.util.Scanner;
 

@@ -1,0 +1,15 @@
+package ar.com.educacionit.domain;
+
+import java.io.Serializable;
+
+public abstract class Entity {
+	protected Long id;
+	
+	public void setId(Long id) {
+		this.id =id;
+	}
+	
+	public Serializable getId() {
+		return this.id;
+	}
+}
